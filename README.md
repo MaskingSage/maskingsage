@@ -21,13 +21,13 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat)
 
 ---
-
+<!--
 ## 📈 GitHub Stats
 
 ![MaskingSage's GitHub stats](https://github-readme-stats.vercel.app/api?username=maskingsage&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maskingsage&layout=compact&theme=radical)
-
+-->
 ---
 
 ## 📫 Let's Connect
